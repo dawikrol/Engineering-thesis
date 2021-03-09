@@ -1,0 +1,34 @@
+Latitude (decimal degrees):	49.469
+Longitude (decimal degrees):	20.055
+Radiation database:	PVGIS-SARAH
+Nominal power of the PV system (c-Si) (kWp):	1.0
+System losses(%):	14.0
+Fixed slope of modules (deg.) (optimum):	39
+Orientation (azimuth) of modules (deg.) (optimum):	-3
+
+Fixed angle
+Month		E_d		E_m		H(i)_d		H(i)_m		SD_m
+1		1.48		45.98		1.68		52.13		15.04
+2		1.85		51.7		2.14		60.04		12.52
+3		2.72		84.28		3.25		100.71		15.74
+4		3.69		110.6		4.57		136.99		15.06
+5		3.66		113.52		4.63		143.51		18.33
+6		3.73		111.78		4.78		143.42		10.3
+7		3.95		122.34		5.15		159.76		18.06
+8		3.82		118.31		4.95		153.54		13.58
+9		3.32		99.58		4.19		125.79		16.98
+10		2.59		80.27		3.16		98.03		18.56
+11		1.63		48.82		1.93		57.98		13.97
+12		1.25		38.87		1.45		44.98		9.66
+Year		2.81		85.51		3.5		106.41		4.5
+		AOI loss (%)		Spectral effects (%)		Temperature and low irradiance loss (%)		Combined loss (%)
+Fixed angle:		-2.91		1.66		-5.34		-19.64
+
+E_d: Average daily energy production from the given system (kWh/d)
+E_m: Average monthly energy production from the given system (kWh/mo)
+H(i)_d: Average daily sum of global irradiation per square meter received by the modules of the given system (kWh/m2/d)
+H(i)_m: Average monthly sum of global irradiation per square meter received by the modules of the given system (kWh/m2/mo)
+SD_m: Standard deviation of the monthly energy production due to year-to-year variation (kWh)
+
+
+PVGIS (c) European Communities, 2001-2021
