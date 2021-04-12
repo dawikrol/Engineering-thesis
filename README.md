@@ -10,7 +10,7 @@ I needed manage with a large number of files .csv to explore the potential of re
 
 ### Table of contents
 * [Technologies](#Technologies)
-* [What have I learnd?](#What have I learnd?)
+* [What have I learnd](#What have I learnd)
 
 
 ### Technologies
@@ -19,7 +19,7 @@ GoogleCollaboration (Python 3.9)
     Main libraries: Pandas, Plotly
     
     
-### What have I learnd?
+### What have I learnd
   - using Python automation real life problem 
   - manage data by Pandas
   - create charts by Plotly
