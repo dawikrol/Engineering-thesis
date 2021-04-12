@@ -21,6 +21,12 @@ GoogleCollaboration (Python 3.9)
     Main libraries: Pandas, Plotly
     
     
+### Examples
+
+![image](https://user-images.githubusercontent.com/63808220/114464812-8caf1580-9be6-11eb-9fbb-cb8802ceb1b1.png)
+
+    
+    
 
 
 
