@@ -19,7 +19,7 @@ GoogleCollaboration (Python 3.9)
     Main libraries: Pandas, Plotly
     
     
-What have I learnd?
+### What have I learnd?
   - using Python automation real life problem 
   - manage data by Pandas
   - create charts by Plotly
