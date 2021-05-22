@@ -11,10 +11,6 @@ I had to manage with a large number of csv files to explore the potential of ren
 
 
 
-### Table of contents
-* [Technologies](#Technologies)
-
-
 ### Technologies
 
 GoogleCollaboration (Python 3.9)
